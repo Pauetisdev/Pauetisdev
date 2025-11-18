@@ -55,7 +55,6 @@ public class Pau {
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Pauetisdev&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" height="200" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=radical&hide_border=true&background=1a1b27" height="200" alt="GitHub Streak" />
 
 <br/>
 
