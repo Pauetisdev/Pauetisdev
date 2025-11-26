@@ -54,29 +54,22 @@ public class Pau {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <!-- Stats card: dejamos que el servicio ponga el fondo (sin bg_color) para evitar problemas -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Pauetisdev&show_icons=true&theme=radical&hide_border=true&count_private=true"
-        width="460"
-        alt="GitHub Stats"
-      />
-    </td>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pauetisdev&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-    <td align="center">
-      <!-- Top languages: layout compact y ancho fijo para que no salga tiny -->
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&count_private=true&card_width=460"
-        width="460"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&count_private=true"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
+
 
 
 
