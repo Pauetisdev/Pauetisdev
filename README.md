@@ -57,9 +57,8 @@ public class Pau {
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pauetisdev&theme=radical" 
     height="180"
+    style="margin-right: 20px;"
   />
-
-  <br/><br/>
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pauetisdev&theme=radical" 
@@ -67,6 +66,7 @@ public class Pau {
   />
 
 </div>
+
 
 
 
