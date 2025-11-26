@@ -53,14 +53,23 @@ public class Pau {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Pauetisdev&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" height="200" alt="GitHub Stats" />
 
-<br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pauetisdev&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" height="200" alt="Top Languages" />
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
+
 
 ## ✍️ Random Dev Quote
 
