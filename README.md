@@ -60,10 +60,7 @@ public class Pau {
     style="margin-right: 20px;"
   />
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pauetisdev&theme=radical" 
-    height="180"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" height="200" alt="Top Languages" />
 
 </div>
 
