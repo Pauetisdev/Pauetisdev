@@ -54,11 +54,20 @@ public class Pau {
 
 <div align="center">
 
-  <img src="https://img.shields.io/github/followers/Pauetisdev?style=for-the-badge&logo=github&color=ff005c">
-  <img src="https://img.shields.io/github/stars/Pauetisdev?style=for-the-badge&logo=github&color=ff005c">
-  <img src="https://img.shields.io/github/last-commit/Pauetisdev/Pauetisdev?style=for-the-badge&logo=github&color=ff005c">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pauetisdev&theme=radical" 
+    height="180"
+  />
+
+  <br/><br/>
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pauetisdev&theme=radical" 
+    height="180"
+  />
 
 </div>
+
 
 
 
