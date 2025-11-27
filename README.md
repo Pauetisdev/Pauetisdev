@@ -56,15 +56,6 @@ public class Pau {
 ![](https://github-readme-stats.vercel.app/api?username=Pauetisdev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pauetisdev&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pauetisdev&theme=radical" 
-    height="180"
-    style="margin-right: 20px;"
-  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" height="200" alt="Top Languages" />
-
 </div>
 
 
