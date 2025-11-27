@@ -60,17 +60,18 @@ public class Pau {
   />
   <br/>
   <p>
+<p>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=radical&hide_border=true&background=1a1b27"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=transparent&hide_border=true&background=1f2233&ring=5bc4ff&fire=5bc4ff&currStreakNum=ffffff"
       alt="GitHub Streak"
     />
-  </p>
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&bg_color=1f2233&text_color=ffffff&title_color=5bc4ff&hide_border=true"
     height="200"
     alt="Top Languages"
-  />
+/>
 </div>
 
 
