@@ -59,15 +59,15 @@ public class Pau {
     alt="GitHub Stats"
   />
 
-  <p>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=radical&hide_border=true&background=2f3640&ring=0be881&fire=0be881&currStreakNum=ffffff"
-      alt="GitHub Streak"
-    />
-  </p>
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=transparent&hide_border=true&background=2f3640&ring=0be881&fire=0be881&currStreakNum=ffffff"
+    alt="GitHub Streak"
+  />
+</p>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&bg_color=2f3640&text_color=ffffff&title_color=0be881&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&bg_color=2f3640&text_color=ffffff&title_color=0be881&hide_border=true"
     height="200"
     alt="Top Languages"
   />
