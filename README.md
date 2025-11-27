@@ -60,12 +60,10 @@ public class Pau {
   />
 
   <p>
-    <a href="https://github.com/Pauetisdev/Pauetisdev" target="_blank">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Pauetisdev&repo=Pauetisdev&theme=radical&hide_border=true&bg_color=1a1b27"
-        alt="Pauetisdev Repository Pin"
-      />
-    </a>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=radical&hide_border=true&background=1a1b27"
+      alt="GitHub Streak"
+    />
   </p>
 
   <img
