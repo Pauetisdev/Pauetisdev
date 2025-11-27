@@ -58,9 +58,16 @@ public class Pau {
     height="180"
     alt="GitHub Stats"
   />
-  <br/>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pauetisdev&repo=Pauetisdev)](https://github.com/Pauetisdev/Pauetisdev)
-  <br/>
+
+  <p>
+    <a href="https://github.com/Pauetisdev/Pauetisdev" target="_blank">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Pauetisdev&repo=Pauetisdev&theme=radical&hide_border=true&bg_color=1a1b27"
+        alt="Pauetisdev Repository Pin"
+      />
+    </a>
+  </p>
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauetisdev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"
     height="200"
