@@ -5,7 +5,7 @@
 ### Developer | Learner | Code Experimenter
 
 [![Email](https://img.shields.io/badge/Email-pauetisdev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauetisdev@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pau%20Vilardell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-vilardell-llado)
 </div>
 
 ---
