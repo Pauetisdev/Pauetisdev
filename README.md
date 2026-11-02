@@ -90,20 +90,6 @@ public class Pau {
 
 ---
 
-## 💰 Support My Tech Experiments
-
-<div align="center">
-
-If you like what I do and want to support my learning journey:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pauvilardell)
-
-</div>
-
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Pauetisdev&color=blueviolet&style=flat-square)
 
 ### 🌟 Thanks for visiting! Let's connect and build something awesome together! 🌟
 
