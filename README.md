@@ -88,15 +88,6 @@ public class Pau {
 
 </div>
 
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Pauetisdev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 
 ## 💰 Support My Tech Experiments
