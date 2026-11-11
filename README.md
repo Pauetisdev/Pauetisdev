@@ -66,7 +66,6 @@ pau@wsl:~$ █
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=Pauetisdev&theme=radical&hide_border=true&background=1a1b27"
       alt="GitHub Streak"
-    />
   </p>
 />
 </div>
